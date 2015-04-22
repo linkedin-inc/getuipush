@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 	"time"
-	i "igetui"
-	t "igetui/template"
-	p "push"
+	i "github.com/linkedin-inc/getuipush/src/igetui"
+	t "github.com/linkedin-inc/getuipush/src/igetui/template"
+	p "github.com/linkedin-inc/getuipush/src/push"
 )
 
 

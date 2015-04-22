@@ -1,6 +1,6 @@
 package igetui
 
-import "igetui/template"
+import "github.com/linkedin-inc/getuipush/src/igetui/template"
 
 type IGtMessage struct {
 	IsOffline         bool

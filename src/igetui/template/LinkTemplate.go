@@ -1,6 +1,6 @@
 package template
 
-import "protobuf"
+import "github.com/linkedin-inc/getuipush/src/protobuf"
 import proto "code.google.com/p/goprotobuf/proto"
 
 type LinkTemplate struct {

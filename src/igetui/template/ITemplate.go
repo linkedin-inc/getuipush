@@ -1,6 +1,6 @@
 package template
 import "strconv"
-import "protobuf"
+import "github.com/linkedin-inc/getuipush/src/protobuf"
 import "fmt"
 import "time"
 import "strings"

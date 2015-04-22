@@ -8,7 +8,7 @@ import (
 	"encoding/hex"
 	"encoding/json"
 	"fmt"
-	"igetui"
+	"github.com/linkedin-inc/getuipush/src/igetui"
 	"io"
 	"io/ioutil"
 	"net/http"
